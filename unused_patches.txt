@@ -1,0 +1,1 @@
+./recipes-kernel/linux/linux-starfive/0001-gcc-plugins-Fix-build-for-upcoming-GCC-release-kernel61.patch
